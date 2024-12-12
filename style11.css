@@ -1,0 +1,25 @@
+body{
+    background-image: url(https://phenixxgaming.com/wp-content/uploads/2021/01/Minecraft-Review-featured-keyart-header.jpg);
+
+    background-position: center ;
+    background-repeat: no-repeat; 
+    background-position-y: top;
+    background-size: cover;
+
+}
+.box1{
+    background-color: #fff;
+    color: #000;
+   opacity: 0.5;
+width: max-content;
+ margin: auto;
+}
+table,tr,td{
+    border: solid #000;
+    background-color:rgba(104, 196, 12, 0.329);
+}
+.box2{
+    background-color: #fff;
+    width:max-content;
+    margin: auto;
+}
